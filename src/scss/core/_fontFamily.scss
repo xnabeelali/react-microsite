@@ -1,0 +1,66 @@
+
+
+@font-face {
+    font-family: 'GT-America';
+    src: url('../../assets/fonts/gt-america-standard-regular.woff2') format('woff2'),
+        url('../../assets/fonts/GT-America-Standard-Regular.woff') format('woff'),
+        url('../../assets/fonts/GT-America-Standard-Regular.ttf') format('truetype'),
+        url('../../assets/fonts/GT-America-Standard-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT-America';
+    src: url('../../assets/fonts/gt-america-standard-bold.woff2') format('woff2'),
+        url('../../assets/fonts/GT-America-Standard-Bold.woff') format('woff'),
+        url('../../assets/fonts/GT-America-Standard-Bold.ttf') format('truetype'),
+        url('../../assets/fonts/GT-America-Standard-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT-America';
+    src: url('../../assets/fonts/gt-america-condensed-regular.woff2') format('woff2'),
+        url('../../assets/fonts/GT-America-Condensed-Regular.woff') format('woff'),
+        url('../../assets/fonts/GT-America-Condensed-Regular.ttf') format('truetype'),
+        url('../../assets/fonts/GT-America-Condensed-Regular.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT-America';
+    src: url('../../assets/fonts/gt-america-expanded-medium.woff2') format('woff2'),
+        url('../../assets/fonts/GT-America-Expanded-Medium.woff') format('woff'),
+        url('../../assets/fonts/GT-America-Expanded-Medium.ttf') format('truetype'),
+        url('../../assets/fonts/GT-America-Expanded-Medium.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT-America';
+    src: url('../../assets/fonts/gt-america-expanded-bold.woff2') format('woff2'),
+        url('../../assets/fonts/GT-America-Expanded-Bold.woff') format('woff'),
+        url('../../assets/fonts/GT-America-Expanded-Bold.ttf') format('truetype'),
+        url('../../assets/fonts/GT-America-Expanded-Bold.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IvarFine';
+    src: url('../../assets/fonts/ivarfine-bold.woff2') format('woff2'),
+        url('../../assets/fonts/IvarFine-Bold.woff') format('woff'),
+        url('../../assets/fonts/IvarFine-Bold.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

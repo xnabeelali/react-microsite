@@ -1,0 +1,47 @@
+.heroBanner {
+    @apply relative w-full h-screen min-h-[650px] overflow-hidden;
+    .img-wrapper {
+        @apply absolute left-0 top-0 w-full h-full ;
+        &:before {
+            @apply block absolute left-0 top-0 w-full h-full bg-bluewood opacity-[0.23] z-[2] mix-blend-multiply;
+            content: '';
+        }
+        figure {
+            @apply relative w-full h-full object-cover;
+            &:after {
+                content: "\2639" " " attr(alt);
+                font-size: 32px;
+                color: rgba(100, 100, 100,0);
+                background: url('../../assets/images/hero-img.png');
+                background-size: cover;
+                background-position: bottom center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                text-align: center;
+              }
+            
+        }
+    }
+    .content-wrapper {
+        @apply absolute lg:relative flex flex-col lg:flex-row h-full z-[2] lg:pt-[50vh] text-white justify-center left-0 px-9 lg:px-0;
+        .intro-text {
+            @apply max-w-[1360px] lg:pr-[20px] w-full;
+        }
+        .hero-title {
+            @apply text-[50px] lg:text-[100px] font-ivarfine leading-[1] pb-[20px] mb-[30px] border-solid border-b-[1px] border-b border-b-white;
+        }
+        .hero-desc {
+            @apply text-[21px] lg:text-[24px] font-gtamerica font-normal leading-[28px];
+
+        }
+        .anchor-round {
+            @apply absolute lg:relative w-[62px] lg:w-[120px] h-[62px] lg:h-[120px] lg:self-end lg:ml-auto shrink-0 bottom-[40px] lg:bottom-0;
+        }
+    }
+}

@@ -1,0 +1,13 @@
+.topNav {
+    @apply relative z-50 container;
+    .inner-wrapper {
+        @apply absolute left-0 top-0 w-full pt-12 lg:pt-10 container;
+    }
+    
+    .logo {
+        @apply w-[51px] lg:w-[82px];
+        svg {
+            @apply w-full h-auto;
+        }
+    }
+}

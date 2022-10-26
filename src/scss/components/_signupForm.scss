@@ -1,0 +1,23 @@
+.signupForm {
+    @apply mb-12 lg:mb-24;
+    .innerWrapper {
+        @apply flex flex-col lg:flex-row gap-10 lg:gap-20;
+    }
+    .img-wrapper {
+        @apply relative w-full lg:w-[50%] lg:bg-bluewood overflow-hidden;
+        .bg-image {
+            @apply hidden lg:block w-full h-full object-cover;
+        }
+        .img-text {
+            @apply lg:text-white text-[1rem] lg:text-2xl font-gtamerica font-normal lg:absolute lg:left-0 lg:bottom-0 lg:pl-10 lg:pr-16 lg:py-12 mb-8 lg:mb-0;
+        }
+    }
+    .form-wrapper {
+        @apply w-full lg:w-[50%];
+    }
+    
+
+    .signup-form-grid {
+        @apply grid overflow-hidden grid-cols-1 lg:grid-cols-2 3xl:gap-x-[117px] lg:gap-x-[40px];
+    }
+}

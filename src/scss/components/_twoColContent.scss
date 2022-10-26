@@ -1,0 +1,15 @@
+.twoColContent {
+    @apply flex flex-col lg:flex-row lg:gap-[80px] xl:gap-[156px] my-[50px] lg:my-[74px];
+    .col {
+        @apply lg:w-[50%]
+    }
+    .main-title {
+        @apply text-4xl lg:text-8xl text-bluewood font-ivarfine mb-10;
+    }
+    .sub-title {
+        @apply  text-2xl lg:text-4xl font-gtamerica font-[300] text-green-100 mb-[38px] uppercase;
+    }
+    .desc {
+        @apply text-[16px] lg:text-2xl font-normal;
+    }
+}

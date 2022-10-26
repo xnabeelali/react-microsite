@@ -1,0 +1,26 @@
+.twoColCards {
+    @apply mb-10 lg:mb-28;
+    .innerWrapper {
+        @apply flex flex-col lg:flex-row gap-[20px] lg:gap-[40px];
+    }
+    .card {
+        @apply flex flex-col overflow-hidden basis-[50%];
+        .img-wrapper {
+            @apply mb-[20px] lg:mb-[50px];
+            img {
+                @apply aspect-[4/3] w-full h-full;
+            }
+        }
+        .content {
+            .title {
+                @apply text-2xl lg:text-4xl font-gtamerica font-[300] text-green-100 uppercase mb-3;
+            }
+            p {
+                @apply text-[1rem] lg:text-2xl font-gtamerica font-normal mb-8;
+            }
+            .btn-primary {
+                @apply mb-8;
+            }
+        }
+    }
+}

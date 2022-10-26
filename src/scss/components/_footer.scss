@@ -1,0 +1,36 @@
+.footer {
+    @apply bg-green-200 text-white;
+    .inner-wrapper {
+        @apply flex justify-center lg:justify-between py-4 lg:py-10;
+    }
+    .footer-navlinks {
+        @apply hidden lg:flex w-full max-w-[930px]
+    }
+    .navlink-list {
+        @apply flex flex-wrap w-full -mx-5 max-w-[930px];
+        .navlink {
+            @apply w-1/5 px-5 py-4;
+            a {
+                transition: letter-spacing ease-in-out 0.35s;
+                &:hover {
+                    letter-spacing: 1px;
+                    border-bottom: 1px solid #fff;
+                }
+            }
+        }
+    }
+
+    .social-links {
+        @apply flex gap-8 xl:gap-16 py-4;
+        a {
+            transition: all ease-in-out 0.35s;
+            &:hover {
+                transform: scale(1.2);
+            }
+        }
+    }
+
+    .right-wrapper {
+        @apply flex flex-col justify-center lg:justify-between items-center lg:items-end;
+    }
+}

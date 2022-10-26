@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+//core
+@import './core/_fontFamily';
+@import './core/base';
+@import './core/form';
+
+
+//components
+@import './components/nav';
+@import './components/heroBanner';
+@import './components/twoColContent';
+@import './components/filterGrid';
+@import './components/twoColCards';
+@import './components/signupForm';
+@import './components/footer';

@@ -1,7 +1,7 @@
 .heroBanner {
     @apply relative w-full h-screen min-h-[650px] overflow-hidden;
     .img-wrapper {
-        @apply absolute left-0 top-0 w-full h-full ;
+        @apply absolute left-0 top-0 w-full h-full;
         &:before {
             @apply block absolute left-0 top-0 w-full h-full bg-bluewood opacity-[0.23] z-[2] mix-blend-multiply;
             content: '';
@@ -34,10 +34,10 @@
             @apply max-w-[1360px] lg:pr-[20px] w-full;
         }
         .hero-title {
-            @apply text-[50px] lg:text-[100px] font-ivarfine leading-[1] pb-[20px] mb-[30px] border-solid border-b-[1px] border-b border-b-white;
+            @apply text-[50px] lg:text-[100px] font-ivarfine leading-[1] pb-[20px] mb-[30px] border-solid border-b border-b-white;
         }
         .hero-desc {
-            @apply text-[21px] lg:text-[24px] font-gtamerica font-normal leading-[28px];
+            @apply text-[21px] lg:text-[24px] font-gtamerica leading-[28px] font-normal;
 
         }
         .anchor-round {

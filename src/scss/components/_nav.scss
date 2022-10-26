@@ -5,7 +5,7 @@
     }
     
     .logo {
-        @apply w-[51px] lg:w-[82px];
+        @apply w-[51px] lg:w-[82px] opacity-100;
         svg {
             @apply w-full h-auto;
         }

@@ -4,10 +4,10 @@
         @apply flex justify-center lg:justify-between py-4 lg:py-10;
     }
     .footer-navlinks {
-        @apply hidden lg:flex w-full max-w-[930px]
+        @apply hidden lg:flex max-w-[930px] w-full;
     }
     .navlink-list {
-        @apply flex flex-wrap w-full -mx-5 max-w-[930px];
+        @apply flex flex-wrap -mx-5 max-w-[930px] w-full;
         .navlink {
             @apply w-1/5 px-5 py-4;
             a {

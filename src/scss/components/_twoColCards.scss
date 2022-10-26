@@ -1,12 +1,12 @@
 .twoColCards {
     @apply mb-10 lg:mb-28;
     .innerWrapper {
-        @apply flex flex-col lg:flex-row gap-[20px] lg:gap-[40px];
+        @apply flex flex-col gap-[20px] lg:gap-[40px] lg:flex-row;
     }
     .card {
-        @apply flex flex-col overflow-hidden basis-[50%];
+        @apply flex flex-col basis-[50%] overflow-hidden;
         .img-wrapper {
-            @apply mb-[20px] lg:mb-[50px];
+            @apply mb-[20px] lg:mb-[50px] text-white;
             img {
                 @apply aspect-[4/3] w-full h-full;
             }

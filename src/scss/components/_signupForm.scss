@@ -13,11 +13,11 @@
         }
     }
     .form-wrapper {
-        @apply w-full lg:w-[50%];
+        @apply  lg:w-[50%] w-full;
     }
     
 
     .signup-form-grid {
-        @apply grid overflow-hidden grid-cols-1 lg:grid-cols-2 3xl:gap-x-[117px] lg:gap-x-[40px];
+        @apply grid grid-cols-1 lg:grid-cols-2 3xl:gap-x-[117px] lg:gap-x-[40px] overflow-hidden;
     }
 }

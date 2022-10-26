@@ -1,7 +1,7 @@
 .twoColContent {
-    @apply flex flex-col lg:flex-row lg:gap-[80px] xl:gap-[156px] my-[50px] lg:my-[74px];
+    @apply flex flex-col lg:gap-[80px] xl:gap-[156px] my-[50px] lg:my-[74px] lg:flex-row ;
     .col {
-        @apply lg:w-[50%]
+        @apply lg:w-2/4;
     }
     .main-title {
         @apply text-4xl lg:text-8xl text-bluewood font-ivarfine mb-10;

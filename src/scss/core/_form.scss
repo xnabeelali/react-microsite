@@ -4,7 +4,7 @@
         @apply text-gray;
     }
     &.is-invalid {
-        @apply border-[red]
+        border-color: red;
     }
 }
 
@@ -105,7 +105,7 @@
 }
 
 .btn-primary {
-    @apply flex justify-between items-center w-full max-w-[160px] lg:max-w-[240px] border-solid border-b-green-100 border-b-[2px] text-lg font-gtamerica font-[600] text-green-100 uppercase tracking-tighter pb-[4px];
+    @apply flex justify-between items-center w-full max-w-[160px] lg:max-w-[240px] border-solid border-b-green-100 border-b-[2px] text-lg font-gtamerica font-[600] text-green-100 uppercase pb-[4px] tracking-tighter;
     transition: all ease-in-out 0.35s;
     .text {
         @apply text-xs lg:text-lg relative left-0;

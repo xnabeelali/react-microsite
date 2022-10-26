@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-microsite/static/css/main.6e9a9424.css",
+    "main.js": "/react-microsite/static/js/main.9f575ec8.js",
+    "static/js/787.0953440c.chunk.js": "/react-microsite/static/js/787.0953440c.chunk.js",
+    "static/media/hero-img.png": "/react-microsite/static/media/hero-img.6ed53a96c9a9538a3b36.png",
+    "static/media/card-img2.png": "/react-microsite/static/media/card-img2.56a58718c3e3050ec7a0.png",
+    "static/media/park-img.png": "/react-microsite/static/media/park-img.3ea0f57a5c5b9e196fd3.png",
+    "static/media/card-img1.png": "/react-microsite/static/media/card-img1.e16810d584546b9e0f76.png",
+    "static/media/GT-America-Expanded-Bold.ttf": "/react-microsite/static/media/GT-America-Expanded-Bold.1d12d2699d022dcd52e5.ttf",
+    "static/media/GT-America-Expanded-Medium.ttf": "/react-microsite/static/media/GT-America-Expanded-Medium.828a36fd428a7136c6e4.ttf",
+    "static/media/GT-America-Standard-Bold.ttf": "/react-microsite/static/media/GT-America-Standard-Bold.0096b1d8674d0b52cf4f.ttf",
+    "static/media/GT-America-Condensed-Regular.ttf": "/react-microsite/static/media/GT-America-Condensed-Regular.0005ac299181f2b3638e.ttf",
+    "static/media/GT-America-Standard-Regular.ttf": "/react-microsite/static/media/GT-America-Standard-Regular.34dd4bfd70bb14d484e7.ttf",
+    "static/media/GT-America-Expanded-Bold.otf": "/react-microsite/static/media/GT-America-Expanded-Bold.671c740d2dd2d9918c3e.otf",
+    "static/media/GT-America-Expanded-Medium.otf": "/react-microsite/static/media/GT-America-Expanded-Medium.ee5a0b24dd60ad9de5a1.otf",
+    "static/media/GT-America-Standard-Bold.otf": "/react-microsite/static/media/GT-America-Standard-Bold.7cbe01a8488e26b0fef9.otf",
+    "static/media/GT-America-Condensed-Regular.otf": "/react-microsite/static/media/GT-America-Condensed-Regular.b8d0d76cdd3417c8119b.otf",
+    "static/media/GT-America-Standard-Regular.otf": "/react-microsite/static/media/GT-America-Standard-Regular.e069ee08858e2859dfbf.otf",
+    "static/media/GT-America-Expanded-Bold.woff": "/react-microsite/static/media/GT-America-Expanded-Bold.524c5dcd1c2891c8409f.woff",
+    "static/media/GT-America-Expanded-Medium.woff": "/react-microsite/static/media/GT-America-Expanded-Medium.f32c2d7ae72f0c846be3.woff",
+    "static/media/GT-America-Standard-Bold.woff": "/react-microsite/static/media/GT-America-Standard-Bold.77ff66bb4645dfc9d976.woff",
+    "static/media/GT-America-Condensed-Regular.woff": "/react-microsite/static/media/GT-America-Condensed-Regular.7f60a477360bfbeb46ee.woff",
+    "static/media/IvarFine-Bold.otf": "/react-microsite/static/media/IvarFine-Bold.d64e77816aee33bc26cc.otf",
+    "static/media/GT-America-Standard-Regular.woff": "/react-microsite/static/media/GT-America-Standard-Regular.54c6bb619c895eaac367.woff",
+    "static/media/IvarFine-Bold.woff": "/react-microsite/static/media/IvarFine-Bold.1090c8449d9fcab4f639.woff",
+    "static/media/ivarfine-bold.woff2": "/react-microsite/static/media/ivarfine-bold.86a3c93f5337c93bf3f7.woff2",
+    "static/media/gt-america-expanded-medium.woff2": "/react-microsite/static/media/gt-america-expanded-medium.756eb7227dc75fafd20f.woff2",
+    "static/media/gt-america-expanded-bold.woff2": "/react-microsite/static/media/gt-america-expanded-bold.1e3909da46a6f50a8b88.woff2",
+    "static/media/gt-america-condensed-regular.woff2": "/react-microsite/static/media/gt-america-condensed-regular.9790aa61f602fdb6cfe7.woff2",
+    "static/media/gt-america-standard-regular.woff2": "/react-microsite/static/media/gt-america-standard-regular.1d62ae0eeacaa04906d3.woff2",
+    "static/media/gt-america-standard-bold.woff2": "/react-microsite/static/media/gt-america-standard-bold.b00016b0bdd9e6098fea.woff2",
+    "index.html": "/react-microsite/index.html",
+    "main.6e9a9424.css.map": "/react-microsite/static/css/main.6e9a9424.css.map",
+    "main.9f575ec8.js.map": "/react-microsite/static/js/main.9f575ec8.js.map",
+    "787.0953440c.chunk.js.map": "/react-microsite/static/js/787.0953440c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e9a9424.css",
+    "static/js/main.9f575ec8.js"
+  ]
+}
